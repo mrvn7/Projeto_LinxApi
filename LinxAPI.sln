@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinxAPI", "LinxAPI\LinxAPI.csproj", "{C9094BDA-F587-418E-9D54-97A3532D6389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9094BDA-F587-418E-9D54-97A3532D6389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9094BDA-F587-418E-9D54-97A3532D6389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9094BDA-F587-418E-9D54-97A3532D6389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9094BDA-F587-418E-9D54-97A3532D6389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DEEC12B-BD1E-4F29-A214-2780F0D79F16}
+	EndGlobalSection
+EndGlobal

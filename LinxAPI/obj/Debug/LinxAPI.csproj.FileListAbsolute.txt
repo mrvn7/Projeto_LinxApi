@@ -1,0 +1,11 @@
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\bin\Debug\LinxAPI.exe.config
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\bin\Debug\LinxAPI.exe
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\bin\Debug\LinxAPI.pdb
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\bin\Debug\Refit.dll
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\bin\Debug\Refit.xml
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\obj\Debug\RefitStubs.g.cs
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\obj\Debug\LinxAPI.csproj.CopyComplete
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\obj\Debug\LinxAPI.exe
+C:\Users\Vini\source\repos\LinxAPI\LinxAPI\obj\Debug\LinxAPI.pdb
